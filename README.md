@@ -20,9 +20,9 @@
 6. finally Alice and bob both knew about which bit was corrupted so both will put 0 on corrupted bit and now both will agree upon a key.
 This fig. Given below also Demonstrate the communication procedure.
 
-!(https://drive.google.com/file/d/1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_/view?usp=sharing)
+![image](https://drive.google.com/file/d/1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_/view?usp=sharing)
 
-
+ 
 ## start app 
 ```sh
 python3 Main_prog.py
