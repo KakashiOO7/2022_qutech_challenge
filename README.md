@@ -12,9 +12,13 @@
 3.Now bob will randomly choose + and x type polariser for measuring state of each photon.
 4.After measurement bob will send his sequence of + and x type plates that he chooses randomly through an unsecure line. Where eve can also listen this conversation.
 5.Now Alice will tell bob about which choice was correct and which bit bob received corrupt.
+
 6. finally Alice and bob both knew about which bit was corrupted so both will put 0 on corrupted bit and now both will agree upon a key.
 This fig. Given below also Demonstrate the communication procedure.
-![](https://drive.google.com/file/d/1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_/view?usp=sharing)
+
+!(https://drive.google.com/file/d/1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_/view?usp=sharing)
+
+
 ## start app 
 ```sh
 python3 Main_prog.py
