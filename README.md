@@ -22,6 +22,7 @@
 This fig. Given below also Demonstrate the communication procedure.
 
 
+
 <a href="https://drive.google.com/uc?export=view&id=<1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_>"><img src="https://drive.google.com/uc?export=view&id=<1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
