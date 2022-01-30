@@ -2,7 +2,7 @@
 
 <p align="left">
   
-<a href="https://drive.google.com/uc?export=view&id=<1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_>"><img src="https://drive.google.com/uc?export=view&id=<1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
   <a href="https://qutech.nl" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151484481-7cedb7da-603e-43cc-890c-979fb66aeb60.png" width="25%" style="padding-right: 0%"/></a>
   <a href="https://iquhack.mit.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/10100490/151647370-d161d5b5-119c-4db9-898e-cfb1745a8310.png" width="10%" style="padding-left: 0%"/> </a>
 </p>
@@ -24,7 +24,7 @@
 This fig. Given below also Demonstrate the communication procedure.
 
 
-
+![image](https://drive.google.com/uc?export=view&id=<1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_>)
 
 
  
