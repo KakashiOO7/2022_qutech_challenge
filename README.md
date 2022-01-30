@@ -6,11 +6,22 @@
 </p>
 
 
-
-## use case
+## How its working
+1.Alice have two options for encoding 1 and two options for encoding 0. she can use 0°(↕) or 45°(/) polarised photon(angle with respect to vertical) for 1 and for 0 she can use 90°(↔) or -45°(\) polarised photon.
+2.After encoding she will send his photons to bob. Bob has 2 types of decoding polariser + type and x type. 0°(↕) and 90°(↔) polarised photons can pass + type polariser with probability 1 but 45°(/) and -45°(\) polarised photons can pass with probability1/2 as we have seen above. Similarly 45°(/) and -45°(\) polarised photons can pass x type polariser with probability 1 but  0°(↕) and 90°(↔) polarised photons can pass with probability1/2 only.
+3.Now bob will randomly choose + and x type polariser for measuring state of each photon.
+4.After measurement bob will send his sequence of + and x type plates that he chooses randomly through an unsecure line. Where eve can also listen this conversation.
+5.Now Alice will tell bob about which choice was correct and which bit bob received corrupt.
+6. finally Alice and bob both knew about which bit was corrupted so both will put 0 on corrupted bit and now both will agree upon a key.
+This fig. Given below also Demonstrate the communication procedure.
+![](https://drive.google.com/file/d/1x4CEiE826FzVEi70cXOjT2_aJnxGnbz_/view?usp=sharing)
+## start app 
 ```sh
 python3 Main_prog.py
 ```
+
+## how to give input
+
 ## Description 
 
 For the 2022 edition of the iQuHack (interdisciplinary Quantum HACKathon), [QuTech](https://qutech.nl) has partnered with the team at MIT to propose 2 challenges, hosted in our own multi-hardware Quantum Technology platform, [Quantum Inspire](https://www.quantum-inspire.com). These aim to draw participants to the challenges at the heart of our mission: to develop scalable prototypes of a quantum computer and an inherently safe quantum internet, based on the fundamental laws of quantum mechanics.
