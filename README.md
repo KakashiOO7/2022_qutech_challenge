@@ -26,7 +26,19 @@
 Details about the project is there in PPT.odt file.
 
 
- 
+## Requirments
+```sh
+pip install qiskit
+```
+```sh
+pip install numpy
+```
+```sh
+pip install simpy
+```
+
+
+
 ## start app 
 ```sh
 python3 Main_prog.py
